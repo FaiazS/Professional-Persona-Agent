@@ -1,14 +1,12 @@
-# Professional-Persona-Agent
----
-# 🧠 Professional Persona Agent — LLM-Powered Career Assistant for Real-Time Interaction
+# Professional-Persona-Agent - LLM-Powered Career Assistant for Real-Time Interaction
 
-> ✨ **Transform your LinkedIn + Career Summary into a powerful, intelligent assistant.**
+- ✨ **Transform your LinkedIn + Career Summary into a powerful, intelligent assistant.**
 
-> 🤝 Engage recruiters and hiring managers in real-time.
+- 🤝 **Engage recruiters and hiring managers in real-time.**
 
-> 🛠️ Built using **Groq’s blazing-fast LLaMA 3.3 70B model**, Gradio, PDF parsing, and function-calling agents.
+- 🛠️ **Built using **Groq’s blazing-fast LLaMA 3.3 70B model**, Gradio, PDF parsing, and function-calling agents.**
 
-> 🔔 Pushover alerts + tool-based logic for user registration and unanswered question capture.
+- 🔔 **Pushover alerts + tool-based logic for user registration and unanswered question capture.**
 
 ---
 
