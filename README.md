@@ -16,7 +16,7 @@ Imagine having a version of *yourself*—trained on your **professional experien
 
 This project turns that vision into a **practical, deployable prototype**.
 
-> 💡 **Use Case:** AI-powered digital persona that **represents your professional identity**—ideal for portfolio sites, networking, recruiting platforms, and career automation tools.
+> 💡 **Use Case: AI-powered digital persona that **represents your professional identity**—ideal for portfolio sites, networking, recruiting platforms, and career automation tools.**
 
 ---
 
